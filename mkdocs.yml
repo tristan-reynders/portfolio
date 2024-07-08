@@ -18,13 +18,13 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
       primary: blue grey
-      accent: pink
+      accent: light blue
     - scheme: slate
       toggle:
         icon: material/weather-night
         name: Switch to light mode
       primary: blue grey
-      accent: orange
+      accent: light blue
 
 markdown_extensions:
   - pymdownx.highlight:
