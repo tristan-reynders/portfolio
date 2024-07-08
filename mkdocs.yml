@@ -29,8 +29,7 @@ theme:
 nav: 
 - Home: index.md
 - Knowledge Base: 
-  - Tools: knowledge-base/tools/index.md
-    - NeoVim:  knowledge-base/tools/neovim.md
+  - Tools: knowledge-base/tools/
 
 markdown_extensions:
   - pymdownx.highlight:
