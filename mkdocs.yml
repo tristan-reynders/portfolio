@@ -29,7 +29,7 @@ theme:
 nav: 
 - Home: index.md
 - Knowledge Base: 
-  - Tools: knowledge-base/tools/
+  - Tools: knowledge-base/tools/index.md
 
 markdown_extensions:
   - pymdownx.highlight:
