@@ -30,7 +30,7 @@ nav:
 - Home: index.md
 - Knowledge Base: 
   - Tools: knowledge-base/tools/index.md
-    - *.md
+    - NeoVim:  knowledge-base/tools/neovim.md
 
 markdown_extensions:
   - pymdownx.highlight:
