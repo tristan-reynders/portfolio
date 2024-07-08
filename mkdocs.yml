@@ -26,11 +26,6 @@ theme:
       primary: teal
       accent: lime
 
-nav: 
-- Home: index.md
-- Knowledge Base: 
-  - Tools: knowledge-base/tools/index.md
-
 plugins:
   - search
   - awesome-pages
