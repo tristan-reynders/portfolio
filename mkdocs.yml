@@ -26,10 +26,6 @@ theme:
       primary: teal
       accent: lime
 
-plugins:
-  - search
-  - awesome-pages
-
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
