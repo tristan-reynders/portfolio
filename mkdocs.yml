@@ -31,6 +31,10 @@ nav:
 - Knowledge Base: 
   - Tools: knowledge-base/tools/index.md
 
+plugins:
+  - search
+  - awesome-pages
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -48,6 +52,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
+  generator: false
   social:
       - icon: fontawesome/brands/github-alt
         link: https://github.com/tristan-reynders
