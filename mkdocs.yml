@@ -30,6 +30,7 @@ nav:
 - Home: index.md
 - Knowledge Base: 
   - Tools: knowledge-base/tools/index.md
+    - *.md
 
 markdown_extensions:
   - pymdownx.highlight:
