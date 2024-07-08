@@ -28,7 +28,6 @@ theme:
 
 nav: 
 - Home: index.md
-- Resume: resume/index.md
 - Knowledge Base: knowledge-base/index.md
 
 markdown_extensions:
