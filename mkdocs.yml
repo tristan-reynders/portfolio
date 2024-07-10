@@ -27,7 +27,6 @@ theme:
       accent: light blue
 
 plugins:
-  - social
   - material/search
   - tags
 
