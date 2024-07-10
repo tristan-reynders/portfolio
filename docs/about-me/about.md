@@ -9,7 +9,6 @@ title: About
 <link rel="stylesheet" href="about.css">
 
 <script src="https://kit.fontawesome.com/79ff35ecec.js" crossorigin="anonymous"></script>
-<script src="../assets/js/about.js"></script> 
 
 <div class="stuff">
   <div class="sidebarparent">
