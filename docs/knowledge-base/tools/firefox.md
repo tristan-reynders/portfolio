@@ -48,5 +48,5 @@ sudo pacman -S firefox
 1. Navigate to `about:config` in the address bar.
 2. Search `toolkit.legacyUserProfileCustomizations.stylesheets` and set it to `true`
 3. Locate your profile directory by navigating to `about:support`. Click the button `Profile Directory` under `Application Basics`
-4. Install a custom theme, I use [this](https://codeberg.org/awwpotato/MiniFox)
+4. Install a custom theme, I use [MiniFox](https://codeberg.org/awwpotato/MiniFox).
 
