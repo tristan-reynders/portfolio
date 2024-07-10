@@ -3,10 +3,10 @@ hide:
   - navigation
   - toc
   - feedback
-title: About Me 
+title: About 
 ---
   
-<link rel="stylesheet" href="../../assets/css/about.css">
+<link rel="stylesheet" href="about.css">
 
 <script src="https://kit.fontawesome.com/79ff35ecec.js" crossorigin="anonymous"></script>
 <script src="../assets/js/about.js"></script> 
